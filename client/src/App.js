@@ -1,9 +1,9 @@
-import NavEl from "./component/NavEl";
+import Home from "./component/home/Home";
 
 function App() {
   return (
     <div className="App">
-      <NavEl />
+      <Home />
     </div>
   );
 }
