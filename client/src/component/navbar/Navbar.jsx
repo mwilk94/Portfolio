@@ -10,10 +10,10 @@ const NavbarEl = () => {
         <Container>
           <Navbar.Brand href="/">Navbar</Navbar.Brand>
           <Nav className="nav-links">
-            <Nav.Link href="/">About</Nav.Link>
-            <Nav.Link href="/">Portfolio</Nav.Link>
-            <Nav.Link href="/">Contact</Nav.Link>
-            <Nav.Link href="#features">Resume</Nav.Link>
+            <Nav.Link href="/About">About</Nav.Link>
+            <Nav.Link href="/Portfolio">Portfolio</Nav.Link>
+            <Nav.Link href="/Contact">Contact</Nav.Link>
+            <Nav.Link href="/Resume">Resume</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
