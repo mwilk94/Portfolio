@@ -1,5 +1,6 @@
 import React from 'react'
 import "./Home.css"
+import ProfilePic from '../../component/image/profilepic.png'
 
 export default function Home() {
   return (
@@ -21,7 +22,10 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="i-right">right</div>
+      <div className="i-right">
+        <div className="i-bg"></div>
+        {/* <img src={ProfilePic} alt="" className='i-img' /> */}
+      </div>
     </div>
   )
 }
