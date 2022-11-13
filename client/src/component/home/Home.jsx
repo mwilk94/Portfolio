@@ -1,6 +1,5 @@
 import React from 'react'
 import "./Home.css"
-import ProfilePic from '../../component/image/profilepic.png'
 
 export default function Home() {
   return (
