@@ -12,7 +12,12 @@ export default function Home() {
             <div className="i-title-wrapper">
               <div className="i-title-item">Web Developer</div>
               <div className="i-title-item">Life-Long Learner</div>
+              <div className="i-title-item">UI/UX Designer</div>
             </div>
+            <div className="i-title-item">Entrepreneur</div>
+          </div>
+          <div className="i-desc">
+            I design and develop stylish, modern websites. 
           </div>
         </div>
       </div>
