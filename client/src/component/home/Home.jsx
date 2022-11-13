@@ -11,8 +11,7 @@ export default function Home() {
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Web Developer</div>
-              <div className="i-title-item">Web Developer</div>
-              <div className="i-title-item">Web Developer</div>
+              <div className="i-title-item">Life-Long Learner</div>
             </div>
           </div>
         </div>
