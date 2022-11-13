@@ -9,8 +9,8 @@ export default function About() {
             <h1 className="fw-light">About Me</h1>
             <p className="lead text-muted">I am a front-end software developer, who continues to prioritize my education in web development and software engineering. I do not shy away from a challenge and take pride in my work. My evolution in this field is one for the books. Just watch me! </p>
             <p>
-              <a href="/" className="btn btn-primary my-2">Main call to action</a>
-              <a href="/" className="btn btn-secondary my-2">Secondary action</a>
+              <a href="/Portfolio" className="btn btn-primary mb-2">View Portfolio</a>
+              <a href="/Contact" className="btn btn-secondary mb-2">Contact Me</a>
             </p>
           </div>
         </section>
